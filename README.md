@@ -1,4 +1,4 @@
-# Java_Iterator-
+# Java_Iterator
 To design and implement look and say problem using the Iterator design pattern 
 
 Langauges and Frameworks: Java, Junit4 
